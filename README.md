@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preyansh06
-- 👀 I’m interested in Html,CSS JaveScript and C++
+- 👀 I’m interested in Html,CSS, JaveScript and C++
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on similar projects of my domain
 - 📫 How to reach me mail me (preyanshkhanna1199@gmail.com)
