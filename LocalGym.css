@@ -1,0 +1,105 @@
+body{
+    color: silver;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('https://wallpapercave.com/wp/wp2356164.jpg');
+
+}
+.left img{
+    width: 70px;
+    
+}
+.left{
+    
+    display: inline-block;
+    /* border: 2px solid red; */
+    position: absolute;
+   left: 20px;
+   top: 10px;
+   text-align: center;
+   padding: 4px;
+    
+}
+.mid{
+    /* border: 2px solid yellow; */
+  width:fit-content;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    padding: 0px 20px;
+    
+}
+
+.right{
+    display: inline-block;
+    /* background-color: black; */
+   /* border: 2px solid green; */
+   position: absolute;
+   right: 100px;
+   padding: 20px;
+   top: 10px;
+  
+
+}
+.btn{
+    /* background-color: red; */
+    background-color:rgb(180, 19, 19);
+    color: white;
+    cursor:pointer;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+    
+}
+.navbar li{
+    padding: 4px;
+    list-style: none;
+    display: inline-block;
+
+}
+
+.navbar ul a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar ul a:hover{
+    text-decoration: underline;
+    color: grey;
+}
+.content{
+    padding: 3px 4px;
+    margin: 180px 200px;
+    /* border: 2px solid blue; */
+    width: 33%;
+    border-radius: 3px;
+}
+.content p{
+    color:white;
+    font-size: 40px;
+    font-family: Tahoma, sans-serif;
+    
+}
+.content h1{
+    color:rgb(180, 19, 19);
+    font-size: 20px;
+}
+.btn2{
+  position:absolute;
+  left: 210px;
+  bottom: 130px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* background-color: red; */
+  background-color:rgb(180, 19, 19);
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+}
+.btn:hover{
+    background-color: rgb(117, 29, 29);
+}
+.btn2:hover{
+    background-color: rgb(117, 29, 29);
+}
