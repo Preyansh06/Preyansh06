@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on similar projects of my domain
 - 📫 How to reach me mail me (preyanshkhanna1199@gmail.com)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!---
 Preyansh06/Preyansh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
