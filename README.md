@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on similar projects of my domain
 - 📫 How to reach me mail me (preyanshkhanna1199@gmail.com)
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-- ![Preyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preyansh06&theme=dark&show_icons=true)
+<!-- - ![Preyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preyansh06&theme=dark&show_icons=true) -->
 - <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preyansh06&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
