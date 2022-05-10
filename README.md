@@ -9,25 +9,24 @@
 
 <p align="center">
     <a href="https://github.com/pran20/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranit Puri streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pran20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Preyansh Khanna streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pran20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/pran20/github-readme-stats"><img alt="Pranit Puri Github Stats" src="https://github-readme-stats.vercel.app/api?username=pran20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pran20/github-readme-stats"><img alt="Pranit Puri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pran20/github-readme-stats"><img alt="Preyansh Khanna Github Stats" src="https://github-readme-stats.vercel.app/api?username=pran20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pran20/github-readme-stats"><img alt="Preyansh Khanna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
 
-<a href="https://github.com/pran20/github-readme-activity-graph"><img alt="Pranit Puri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pran20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pran20/github-readme-activity-graph"><img alt="Preyansh Khanna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pran20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "http://linkedin.com/in/pranit-puri-a22b91175"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/pran_writes_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/pran_writes_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/preyansh-khanna-22981920b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 </p>
 
