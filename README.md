@@ -8,19 +8,19 @@
 - <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preyansh06&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <p align="center">
-    <a href="https://github.com/pran20/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Preyansh Khanna streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pran20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Preyansh06/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Preyansh Khanna streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Preyansh06&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/pran20/github-readme-stats"><img alt="Preyansh Khanna Github Stats" src="https://github-readme-stats.vercel.app/api?username=pran20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pran20/github-readme-stats"><img alt="Preyansh Khanna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Preyansh06/github-readme-stats"><img alt="Preyansh Khanna Github Stats" src="https://github-readme-stats.vercel.app/api?username=Preyansh06&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Preyansh06/github-readme-stats"><img alt="Preyansh Khanna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pran20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
 
-<a href="https://github.com/pran20/github-readme-activity-graph"><img alt="Preyansh Khanna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pran20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Preyansh06/github-readme-activity-graph"><img alt="Preyansh Khanna Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Preyansh06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 <p align="left">
@@ -32,9 +32,9 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pran20">
+    <img src="https://komarev.com/ghpvc/?username=Preyansh06">
 </a>
-<a href="https://github.com/pran20?tab=followers"><img src="https://img.shields.io/github/followers/pran20?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Preyansh06?tab=followers"><img src="https://img.shields.io/github/followers/pran20?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 Preyansh06/Preyansh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
