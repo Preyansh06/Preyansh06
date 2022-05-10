@@ -7,6 +7,11 @@
 <!-- - ![Preyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preyansh06&theme=dark&show_icons=true) -->
 - <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preyansh06&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<p align="center">
+    <a href="https://github.com/pran20/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranit Puri streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pran20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+
 ## 📊 My Github Stats
 
   <br/>
